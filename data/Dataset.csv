@@ -1,0 +1,11 @@
+Customer ID,Monthly Charges,Contract Length (Months),Internet Usage (GB),Support Tickets,Churn
+C001,120,6,350,5,Yes
+C002,80,24,150,1,No
+C003,95,12,200,2,No
+C004,130,3,400,6,Yes
+C005,70,36,100,0,No
+C006,150,2,450,7,Yes
+C007,60,48,90,1,No
+C008,110,8,300,4,Yes
+C009,85,18,180,2,No
+C010,140,4,420,6,Yes
