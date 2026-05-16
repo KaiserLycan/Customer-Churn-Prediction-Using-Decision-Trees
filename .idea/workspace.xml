@@ -3,7 +3,9 @@
   <component name="ChangeListManager">
     <list default="true" id="b74351b1-337c-4b22-97b0-4da3c81c1e87" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Exer3_Flores.ipynb" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/Exer3_Panti.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/Exer3_Panti.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/Dataset.csv" beforeDir="false" afterPath="$PROJECT_DIR$/Dataset/Dataset.csv" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -13,18 +15,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "KaiserLycan"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;KaiserLycan&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/KaiserLycan/Customer-Churn-Prediction-Using-Decision-Trees.git",
-    "accountId": "b76995c4-6bc6-4478-aa3c-bb4b9faa7ed1"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/KaiserLycan/Customer-Churn-Prediction-Using-Decision-Trees.git&quot;,
+    &quot;accountId&quot;: &quot;b76995c4-6bc6-4478-aa3c-bb4b9faa7ed1&quot;
   }
-}]]></component>
+}</component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -42,6 +44,7 @@
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "codeWithMe.voiceChat.enabledByDefault": "false",
     "git-widget-placeholder": "main",
+    "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -61,7 +64,8 @@
       <option name="presentableId" value="Default" />
       <updated>1778899590441</updated>
       <workItem from="1778899591478" duration="275000" />
-      <workItem from="1778899954757" duration="11795000" />
+      <workItem from="1778899954757" duration="13874000" />
+      <workItem from="1778933401316" duration="7304000" />
     </task>
     <servers />
   </component>
